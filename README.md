@@ -48,8 +48,3 @@ To download, inspect, or modify this portfolio workspace layout locally on your 
    * Open `index.html` inside your favorite internet browser (e.g., Chrome, Brave, Safari).
    * Or run it through a local server container system such as the VS Code *Live Server Extension* 
 
----
-
-
-* **Instagram:** [@yabets_daniel_](https://instagram.com)
-* **Email:** [yabets.123d@gmail.com](mailto:yabets.123d@gmail.co
